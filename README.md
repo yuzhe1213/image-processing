@@ -1,0 +1,7 @@
+capture.py :將素材影片每一秒擷取一張圖片。
+Augmented.py :將圖片做適度的旋轉、調整亮度，如此可以有效率的大量產出樣本數。
+select.py :篩選挑掉不合的照片。
+prepare_haar_training.py :產出正負樣本的文字檔。
+Final_material :每個建築物的影片。
+augmented :影片每秒擷取下來的照片。
+output :擴增過後的正負樣本。
